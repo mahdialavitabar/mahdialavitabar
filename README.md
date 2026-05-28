@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdialavitabar" alt="mahdialavitabar" /></a> </p>
 
-- 🔭 I’m currently working on [Appduni](https://www.appduni.com/)
+- 🔭 I’m currently working on [Appduni](https://www.appduni.ir/)
 
 - 👨‍💻 All of my projects are available at [https://www.mahdialavitabar.com/en](https://www.mahdialavitabar.com/en)
 
