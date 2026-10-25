@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.mahdialavitabar.com/en"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/mahdialavitabar"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/davioncoder"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:davioncoder@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -16,7 +17,7 @@ I design and build production web applications end to end, from backend services
 - Currently building at [Appduni](https://www.appduni.ir/)
 - Projects, articles, and experience: [mahdialavitabar.com](https://www.mahdialavitabar.com/en)
 - Open to conversations about JavaScript, TypeScript, and Rust
-- Contact: [davioncoder@gmail.com](mailto:davioncoder@gmail.com)
+- Contact: [davioncoder@gmail.com](mailto:davioncoder@gmail.com) · Telegram [@davioncoder](https://t.me/davioncoder)
 
 ## Tech Stack
 
@@ -30,6 +31,13 @@ I design and build production web applications end to end, from backend services
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,html,css" alt="Frontend" />
+  <img src="https://img.shields.io/badge/TanStack_Start-ef4444?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Start" />
+</p>
+
+**Desktop**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=electron,tauri" alt="Desktop" />
 </p>
 
 **Backend and Data**
