@@ -32,6 +32,7 @@ I design and build production web applications end to end, from backend services
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,html,css" alt="Frontend" />
   <img src="https://img.shields.io/badge/TanStack_Start-ef4444?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Start" />
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React Native" />
 </p>
 
 **Desktop**
@@ -43,7 +44,8 @@ I design and build production web applications end to end, from backend services
 **Backend and Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,postgres,mongodb,redis,kafka,rabbitmq" alt="Backend and data" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma,postgres,mongodb,redis,firebase,kafka,rabbitmq" alt="Backend and data" />
+  <img src="https://img.shields.io/badge/RxJS-b7178c?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
 </p>
 
 **Infrastructure and Tooling**
@@ -51,6 +53,10 @@ I design and build production web applications end to end, from backend services
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git,jest,cypress,figma" alt="Infrastructure and tooling" />
 </p>
+
+**Architecture and Practices**
+
+Microservices · Micro-frontends · CI/CD · Clean Code · Functional Programming
 
 ## GitHub Stats
 
